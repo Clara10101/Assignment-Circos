@@ -1,0 +1,3 @@
+chr - I I 0 5579133 blue
+chr - II II 0 4539804 ylorrd-5-seq-5
+chr - III III 0 2452883 purple
